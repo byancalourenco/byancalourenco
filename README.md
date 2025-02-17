@@ -56,3 +56,10 @@ Me chamo Byanca Lourenço Souza, tenho 16 anos e moro na região do ABC em São 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+---
+
+### 💻👇 Acesse meu currículo!
+
+https://byancalourenco.github.io/curriculo/
+
