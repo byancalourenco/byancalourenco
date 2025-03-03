@@ -3,14 +3,6 @@
 **`Estudante`**
 
 Me chamo Byanca Lourenço Souza, tenho 16 anos e moro na região do ABC em São Paulo. Estou fazendo ensino médio com o curso técnico em informática para internet na ETEC Professora Maria Cristina Medeiros. Esse perfil é usado para estudos! 
-
----
-
-
-### 💻👇 Acesse meu currículo!
-
-https://byancalourenco.github.io/curriculo/
-
 ---
 
 
